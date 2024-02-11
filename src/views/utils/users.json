@@ -1,0 +1,21 @@
+[
+    {
+      "username": "UsmanShamas",
+      "password": "password1",
+      "name": "Usman",
+      "email": "usman@loopNFT.live",
+      "description":"A creative designer and musician, using most of his loops for information visualisation",
+      "wallet":"5EWqYLw8hLBDPxbhBZ9EnAV19dbN3UUwWcayjHHdhDTMCsBy",
+      "image":"https://avatars.githubusercontent.com/u/47473401?v=4"
+    },
+    {
+      "username": "Steve",
+      "password": "password2",
+      "name": "Steve",
+      "email": "steve@loopNFT.live",
+      "description":"A creative designer and musician, using most of his loops for information visualisation",
+      "wallet":"5EqqVH3fDes6EomjosMo35QhVALCRnmuN6E3iCD4CyEK2xTc",
+      "image":"https://images.unsplash.com/photo-1527980965255-d3b416303d12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1180&q=80"
+    }
+  ]
+  

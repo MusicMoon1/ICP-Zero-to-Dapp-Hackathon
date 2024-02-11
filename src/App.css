@@ -1,0 +1,77 @@
+/* @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@100;200;300;400;500;600;700;800;900;1000&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@100;200;300;400;500;600;700;800;900&display=swap"); */
+/* @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap'); */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
+* {
+  /* font-family: "DM Sans", sans-serif; */
+  font-family: "Poppins", sans-serif;
+}
+#lp {
+  font-family: serif;
+}
+*::-webkit-scrollbar {
+  width: 0;
+}
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+/* input[type="range"] {
+  appearance: none !important;
+  background: url("./assets/base.svg");
+  background-repeat: no-repeat;
+  height: 15px;
+} */
+/* input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none !important;
+  background: #99fe01;
+  background: radial-gradient(circle, #99fe01 39%, #ffffff 39%);
+  background: -moz-radial-gradient(circle, #99fe01 39%, #ffffff 39%);
+  background: -webkit-radial-gradient(circle, #99fe01 39%, #ffffff 39%);
+  border-radius: 9999px;
+  height: 30px;
+  width: 30px;
+}
+
+input[type="range"]::-webkit-slider-thumb:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  left: -285px;
+  top: -28px;
+  width: 300px;
+  height: 140px;
+  background: #9fe472;
+  transform: rotateX(90deg);
+  transform-origin: 0 0px 0;
+  transform: rotateX(90deg) translateY(-140px) translateZ(-18px);
+} */
+#gradient-canvas {
+  --gradient-color-1: #000000;
+  --gradient-color-2: #000000;
+  --gradient-color-3: #9bff00;
+  --gradient-color-4: #000000;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Apply the blinking animation to the path */
+#blinking-path {
+  animation: blink 1s infinite; /* Modify the animation duration as needed */
+}
+.styles_reactWaves__1M36F{
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}

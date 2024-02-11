@@ -1,0 +1,62 @@
+{
+  "name": "lv",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@dschoon/react-waves": "^4.0.3",
+    "@headlessui/react": "^1.7.15",
+    "@material-tailwind/react": "2.0.4",
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/extension-dapp": "^0.46.5",
+    "@polkadot/keyring": "^12.3.2",
+    "@polkadot/util-crypto": "^12.3.2",
+    "@unique-nft/accounts": "^0.3.6",
+    "@unique-nft/sdk": "^0.2.19",
+    "@unique-nft/substrate-client": "^0.8.8",
+    "@unique-nft/utils": "^0.3.14",
+    "axios": "^1.4.0",
+    "ethers": "5.7.2",
+    "firebase": "^9.15.0",
+    "fs": "^0.0.1-security",
+    "gsap": "^3.12.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-fast-marquee": "^1.6.0",
+    "react-just-parallax": "^3.1.16",
+    "react-player": "^2.13.0",
+    "react-scripts": "5.0.1",
+    "react-simple-image-viewer": "^1.2.2",
+    "uniqolor": "^1.1.0",
+    "whatamesh": "^0.0.1",
+    "wouter": "^2.11.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.1.1",
+    "tailwindcss": "3.3.2"
+  }
+}
